@@ -1,0 +1,27 @@
+# PDF & Document Parsing
+pdfplumber>=0.11.0
+PyPDF2>=3.0.0
+docx2txt>=0.8
+
+# NLP
+spacy>=3.7.0
+nltk>=3.9.0
+
+# Machine Learning & Similarity
+scikit-learn>=1.5.0
+sentence-transformers>=3.0.0
+
+# Generative AI (Google Gemini - new SDK)
+google-genai>=1.0.0
+
+# API Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.12
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Utilities
+numpy>=1.26.0
+pandas>=2.2.0

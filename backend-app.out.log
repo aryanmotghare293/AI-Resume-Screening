@@ -1,0 +1,16 @@
+INFO:     127.0.0.1:61199 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61200 - "GET /api/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65012 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65012 - "GET /assets/index-BkaVNgQw.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64514 - "GET /assets/index-B7yp9O5J.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65012 - "GET /favicon.svg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53659 - "POST /api/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57950 - "POST /api/ai-suggestions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64499 - "POST /api/analyze HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63713 - "POST /api/ai-suggestions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64031 - "POST /api/interview-questions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60553 - "POST /api/career-roadmap HTTP/1.1" 200 OK
+[GenAI] Generation error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+[GenAI] Generation error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+[GenAI] Generation error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+INFO:     127.0.0.1:57796 - "POST /api/ai-suggestions HTTP/1.1" 200 OK
